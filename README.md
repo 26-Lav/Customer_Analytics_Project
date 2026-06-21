@@ -14,5 +14,5 @@ The short term rental market has matured. Location and size alone no longer pred
 ## Analytical Approach
 
 Two analytical pathways are built around a unified Success Proxy — a composite measure of nightly price and occupancy demand.
-Pathway 1 — Property Characteristics: Random Forest Regressor to identify which physical property attributes most strongly predict the Success Proxy, followed by a Decision Tree classifier to surface the specific property profile that consistently appears among top tier listings.
-Pathway 2 — Guest Experience: Random Forest Regressor on structured guest satisfaction scores, combined with NLP sentiment analysis and word frequency analysis on 5 million guest reviews to identify which operational factors drive listing success.
+1. Pathway 1 — Property Characteristics: Random Forest Regressor to identify which physical property attributes most strongly predict the Success Proxy, followed by a Decision Tree classifier to surface the specific property profile that consistently appears among top tier listings.
+2. Pathway 2 — Guest Experience: Random Forest Regressor on structured guest satisfaction scores, combined with NLP sentiment analysis and word frequency analysis on 5 million guest reviews to identify which operational factors drive listing success.
